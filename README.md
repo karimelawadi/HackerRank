@@ -2,10 +2,10 @@
 
 My Python solutions to HackerRank challenges.
 
-## 📌 About
+##  About
 This repository contains my solutions to various HackerRank Python challenges, organized by difficulty level. I'm using this repo to track my progress, practice problem-solving skills, and build a personal reference for common coding patterns.
 
-## ✅ Solved Problems
+##  Solved Problems
 
 | # | Problem | Description |
 |---|---------|-------------|
@@ -17,17 +17,17 @@ This repository contains my solutions to various HackerRank Python challenges, o
 | 6 | Print Squares | Print the square of numbers from 0 to n-1 |
 | 7 | Lists | Perform list operations (append, insert, remove, sort, pop, reverse, print) based on given commands |
 
-## 🛠️ Language
+##  Language
 - Python 
 
-## 🎯 Goals
+##  Goals
 - Strengthen problem-solving and algorithmic thinking
 - Practice writing clean, efficient code
 - Build a habit of consistent practice
 
-## 🔗 HackerRank Profile
+##  HackerRank Profile
 [https://github.com/karimelawadi]
 
-## 📫 Contact
+##  Contact
 - **Email:** hamedkarim343@gmail.com
 - **LinkedIn:** [linkedin.com/in/karim-elawadi-732a96413](https://www.linkedin.com/in/karim-elawadi-732a96413)
