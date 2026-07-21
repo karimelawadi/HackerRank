@@ -7,7 +7,7 @@ This repository contains my solutions to various HackerRank Python challenges, o
 
 ##  Solved Problems
 
-| # | Problem | Description |
+|  | Problem | Description |
 |---|---------|-------------|
 | 1 | Arithmetic Operators | Print the sum, difference, and product of two integers |
 | 2 | Division | Print integer division and float division of two integers |
