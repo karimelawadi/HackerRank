@@ -26,8 +26,8 @@ This repository contains my solutions to various HackerRank Python challenges, o
 - Build a habit of consistent practice
 
 ##  HackerRank Profile
-[https://github.com/karimelawadi]
+https://github.com/karimelawadi
 
 ##  Contact
 - **Email:** hamedkarim343@gmail.com
-- **LinkedIn:** [linkedin.com/in/karim-elawadi-732a96413](https://www.linkedin.com/in/karim-elawad)
+- **LinkedIn:** [linkedin.com/in/karim-elawadi](https://www.linkedin.com/in/karim-elawad)
