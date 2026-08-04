@@ -30,4 +30,4 @@ This repository contains my solutions to various HackerRank Python challenges, o
 
 ##  Contact
 - **Email:** hamedkarim343@gmail.com
-- **LinkedIn:** [linkedin.com/in/karim-elawadi-732a96413](https://www.linkedin.com/in/karim-elawadi-732a96413)
+- **LinkedIn:** [linkedin.com/in/karim-elawadi-732a96413](https://www.linkedin.com/in/karim-elawad)
