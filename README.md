@@ -1,5 +1,4 @@
 <img width="3600" height="2025" alt="2_Karim-Elawadi" src="https://github.com/user-attachments/assets/2d4619ff-7cc5-42e8-ab6d-3e115d5934ea" />
-<img width="3600" height="2025" alt="3_My-HackerRank-Python-Practice" src="https://github.com/user-attachments/assets/95ace5d1-cb1c-4cb8-acfd-615564369d6d" />
 
 # My HackerRank Python Practice
 
@@ -9,6 +8,8 @@
 
 **Karim Elawadi**
 A personal collection of solved Python exercises and coding challenges, built as part of an ongoing path toward Data Science and Machine Learning. This repository serves as both a practice log and a portfolio artifact, documenting steady progress from language fundamentals through functional programming patterns.
+
+<img width="3600" height="2025" alt="3_My-HackerRank-Python-Practice" src="https://github.com/user-attachments/assets/95ace5d1-cb1c-4cb8-acfd-615564369d6d" />
 
 ## Table of Contents
 
