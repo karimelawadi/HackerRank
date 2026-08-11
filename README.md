@@ -1,5 +1,3 @@
-<img width="3600" height="2025" alt="2_Karim-Elawadi" src="https://github.com/user-attachments/assets/2d4619ff-7cc5-42e8-ab6d-3e115d5934ea" />
-
 # My HackerRank Python Practice
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
@@ -8,8 +6,6 @@
 
 **Karim Elawadi**
 A personal collection of solved Python exercises and coding challenges, built as part of an ongoing path toward Data Science and Machine Learning. This repository serves as both a practice log and a portfolio artifact, documenting steady progress from language fundamentals through functional programming patterns.
-
-<img width="3600" height="2025" alt="3_My-HackerRank-Python-Practice" src="https://github.com/user-attachments/assets/95ace5d1-cb1c-4cb8-acfd-615564369d6d" />
 
 ## Table of Contents
 
@@ -55,56 +51,40 @@ HackerRank/
 
 Strings are fundamental sequences of characters used to represent and manipulate text data. This section covers substring counting, case swapping, split & join operations, string validation methods (`isalnum`, `isalpha`, `isdigit`, `islower`, `isupper`), in-place-style mutation (via slicing, since strings are immutable), text wrapping, and word capitalization.
 
-<img width="3600" height="2025" alt="4_Strings-Text-Processing-Fundamentals" src="https://github.com/user-attachments/assets/a7ce966e-423b-4690-ad4a-68da8af9df9e" />
-
 ### Lists: Organizing and Managing Collections
 **File:** `Python_Basic_Data_Types.ipynb`
 
 Lists are ordered, mutable collections central to everyday Python work. This section covers the full range of built-in list operations (`append`, `insert`, `remove`, `sort`, `pop`, `reverse`), nested list structures, tuple hashing, identifying runner-up values in a dataset, and computing percentages/averages from parsed input.
-
-<img width="3600" height="2025" alt="5_Lists-Organizing-and-Managing-Collections" src="https://github.com/user-attachments/assets/25ade762-33c4-4025-95ee-86d182b43e0a" />
 
 ### Sets: Unique Elements and Fast Lookups
 **File:** `Python_Sets.ipynb`
 
 Sets are unordered collections optimized for uniqueness and membership testing. This section covers union, intersection, difference, and symmetric difference operations, in-place set mutations (`update`, `intersection_update`, etc.), subset/superset validation, and applied problems such as computing distinct averages and solving allocation-style logic puzzles.
 
-<img width="3600" height="2025" alt="6_Sets-Unique-Elements-and-Fast-Lookups" src="https://github.com/user-attachments/assets/b092592a-ffd8-4c9b-96b7-ab9fb361d66d" />
-
 ### Dictionaries: Key-Value Relationships
 **File:** `Workshop.ipynb`
 
 Dictionaries model key-value relationships with O(1) average-time lookup. This section's core exercise inverts a dictionary — swapping keys and values — implemented via a dict comprehension that pairs a `(value, key)` tuple returned from a lambda, then reassembles the result with `dict(...)`.
-
-<img width="3600" height="2025" alt="7_Dictionaries-Key-Value-Relationships" src="https://github.com/user-attachments/assets/8142b956-8de5-4967-93d3-fa3434ec4821" />
 
 ### Tuples: Immutable Sequences
 **File:** `Workshop.ipynb`
 
 Tuples are ordered, immutable sequences — ideal when data shouldn't change after creation. This section covers the standard round-trip: converting a tuple to a list, targeting a specific index for modification using `enumerate` paired with a conditional lambda, and converting the result back to a tuple.
 
-<img width="3600" height="2025" alt="8_Tuples-Immutable-Sequences" src="https://github.com/user-attachments/assets/d739cf46-fbd6-45b5-87a3-ffabf0a58982" />
-
 ### Functions: Reusable Code Blocks
 **Files:** `Python_Introduction.ipynb`, `Workshop.ipynb`, `Python_Closures_and_Decorators.ipynb`
 
 Functions are the primary unit of reuse in Python. This section spans basic function definitions with parameters and return values (e.g. a leap-year checker), two functions built around list/dict comprehensions with lambda-based logic (`is_palindrome`, `count_occurrences`), and a closures/decorators exercise that wraps and reformats phone number output.
-
-<img width="3600" height="2025" alt="9_Functions-Reusable-Code-Blocks" src="https://github.com/user-attachments/assets/8a862250-bb51-4212-97f9-b56229929338" />
 
 ### While Loops: Repetition and Control Flow
 **File:** `Workshop.ipynb`
 
 `while` loops repeat based on a condition rather than a fixed range, which makes them well-suited to problems where the number of iterations isn't known in advance. This section's exercise accumulates numbers into a list until their running total exceeds a threshold, demonstrating correct loop-condition design and variable updates to avoid infinite loops.
 
-<img width="3600" height="2025" alt="10_While-Loops-Repetition-and-Control-Flow" src="https://github.com/user-attachments/assets/76165d6a-a1ac-4497-9f2a-a04f7bf65dff" />
-
 ### Optimization: Writing Efficient Code
 **File:** `Workshop.ipynb`
 
 This section is a direct case study in algorithmic efficiency: a straightforward `remove_duplicates` implementation using `if item not in list` (average O(n) per check, O(n²) overall) is compared against an optimized version using a `set` for membership tracking (average O(1) per check, O(n) overall). The comparison illustrates why data structure choice matters more than micro-optimizations as input size grows.
-
-<img width="3600" height="2025" alt="11_Optimization-Writing-Efficient-Code" src="https://github.com/user-attachments/assets/c9aad96f-ae41-462e-b349-80471dbcaaf1" />
 
 ### Advanced Dictionaries: Complex Data Structures
 **Files:** `Workshop.ipynb`, `Assignment-2.ipynb`
