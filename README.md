@@ -161,6 +161,9 @@ Where an exercise explicitly requires avoiding a built-in (e.g., implementing so
 This repository reflects steady progress through Python fundamentals: solid command of core data structures (strings, lists, sets, dictionaries, tuples), control flow (functions, loops), and an emerging awareness of algorithmic efficiency. Continued practice — particularly with functional patterns and time-complexity trade-offs — remains an ongoing focus.
 
 ## Contact
-- **Email:** hamedkarim343@gmail.com
-- **LinkedIn:** [linkedin.com/in/karim-elawadi](https://www.linkedin.com/in/karim-elawadi)
 
+**Karim Elawadi**
+
+- **Email:** [hamedkarim343@gmail.com](mailto:hamedkarim343@gmail.com)
+- **LinkedIn:** [linkedin.com/in/karim-elawadi](https://www.linkedin.com/in/karim-elawadi)
+- **HackerRank:** [hackerrank.com/profile/hamedkarim343](https://www.hackerrank.com/profile/hamedkarim343)
